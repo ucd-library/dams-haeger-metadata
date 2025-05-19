@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels.jsonld.json"
+  },
+  "schema:about": [
+      {
+        "@id": "http://id.worldcat.org/fast/1175995"
+      },
+      {
+        "@id": "http://id.worldcat.org/fast/1175907"
+      },
+      {
+        "@id": "http://id.worldcat.org/fast/1064359"
+      }
+    ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:description": "This collection contains 16 previously unpublished profiles of mature pinot noir vineyards in California and Oregon researched and written by John Haeger between 2022 and 2024. Most profiles describe a single vineyard, although some cover several. Each profile examines a list of vineyard attributes: location, latitude, proximities, elevation, orientation, aspect, slope and exposures. Profiles may also address prevailing winds and other determinants of micro- and mesoclimate; physical and chemical properties of top soils, subsoils, and base rock, especially porosity and moisture retention; significant modifications (if any) made at or after planting to the site’s natural topography; planting history and plant materials, including the specific sources of scion material; vineyard layout and trellising schemes; the vineyard’s homo- or heterogeneity from one side or block to another; farming practices and historical changes thereto; conversions to/from organic/biodynamic protocols, or to/from irrigation; yield, etc. The profile also captures the history of the vineyard: who, why in this place, why Pinot, from what inspiration, with what help and guidance from whom else, etc.  A final section of each profile contains tasting notes on wines made from grapes grown in the vineyard.",
+  "schema:identifier": [
+    "D-641",
+    "ark:/87293/d33t9dd5t"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Old Vines in New Lands: a Study of Mature Pinot Noir Vineyards in California and Oregon",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}
