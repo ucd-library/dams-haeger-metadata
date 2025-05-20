@@ -14,7 +14,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "ucdlib:hasLabel": {
-    "@id": "@base:/labels.jsonld.json"
+    "@id": "@base:/labels"
   },
   "schema:about": [
       {
