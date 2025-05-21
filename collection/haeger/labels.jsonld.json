@@ -2,7 +2,6 @@
     {
     "@id": "",
     "@context": {
-      "schema": "http://schema.org/",
       "ucdlib": "http://digital.ucdavis.edu/schema#"
     },
     "@type": [
