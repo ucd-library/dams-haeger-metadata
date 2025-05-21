@@ -12,98 +12,98 @@
   },
     {
         "@id": "http://id.worldcat.org/fast/2019995",
-        "schema:name": "California--Sonoma Coast American Viticultural Area"
+        "http://schema.org/name": "California--Sonoma Coast American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1213638",
-        "schema:name": "California—-Sonoma County"
+         "http://schema.org/name": "California—-Sonoma County"
     },
     {
         "@id": "http://id.worldcat.org/fast/1175995",
-        "schema:name": "Wine writers"
+         "http://schema.org/name": "Wine writers"
     },
     {
         "@id": "http://id.worldcat.org/fast/1175907",
-        "schema:name": "Wine and wine making"
+         "http://schema.org/name": "Wine and wine making"
     },
     {
         "@id": "http://id.worldcat.org/fast/1064359",
-        "schema:name": "Pinot noir (Wine)"
+         "http://schema.org/name": "Pinot noir (Wine)"
     },
     {
         "@id": "http://id.worldcat.org/fast/1985182",
-        "schema:name": "California--Yorkville Highlands American Viticultural Area"
+         "http://schema.org/name": "California--Yorkville Highlands American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/2019998",
-        "schema:name": "California--Santa Rita Hills American Viticultural Area"
+         "http://schema.org/name": "California--Santa Rita Hills American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1212516",
-        "schema:name": "California—Santa Barbara County"
+         "http://schema.org/name": "California—Santa Barbara County"
     },
     {
         "@id": "http://id.worldcat.org/fast/2019991",
-        "schema:name": "California--Santa Maria Valley American Viticultural Area"
+         "http://schema.org/name": "California--Santa Maria Valley American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1985194",
-        "schema:name": "California--Fort Ross-Seaview American Viticultural Area"
+         "http://schema.org/name": "California--Fort Ross-Seaview American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1275737",
-        "schema:name": "Oregon--Willamette River Valley"
+         "http://schema.org/name": "Oregon--Willamette River Valley"
     },
     {
         "@id": "http://id.worldcat.org/fast/1983401",
-        "schema:name": "California--Coombsville American Viticultural Area"
+         "http://schema.org/name": "California--Coombsville American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1273793",
-        "schema:name": "California--Napa Valley"
+         "http://schema.org/name": "California--Napa Valley"
     },
     {
         "@id": "http://id.worldcat.org/fast/1985210",
-        "schema:name": "California--Santa Cruz Mountains American Viticultural Area"
+         "http://schema.org/name": "California--Santa Cruz Mountains American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1210722",
-        "schema:name": "California—Santa Cruz County"
+         "http://schema.org/name": "California—Santa Cruz County"
     },
     {
         "@id": "http://id.worldcat.org/fast/1986383",
-        "schema:name": "California--Anderson Valley American Viticultural Area"
+         "http://schema.org/name": "California--Anderson Valley American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1215516",
-        "schema:name": "California—Mendocino County"
+         "http://schema.org/name": "California—Mendocino County"
     },
     {
         "@id": "http://id.worldcat.org/fast/2019975",
-        "schema:name": "California--Russian River Valley American Viticultural Area"
+         "http://schema.org/name": "California--Russian River Valley American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1175993",
-        "schema:name": "Wine tastng"
+         "http://schema.org/name": "Wine tastng"
     },
     {
         "@id": "http://id.worldcat.org/fast/2019990",
-        "schema:name": "California--Santa Lucia Highlands American Viticultural Area"
+         "http://schema.org/name": "California--Santa Lucia Highlands American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1208098",
-        "schema:name": "California--Monterey County"
+         "http://schema.org/name": "California--Monterey County"
     },
     {
         "@id": "http://id.worldcat.org/fast/2019959",
-        "schema:name": "California--Mount Harlan American Viticultural Area"
+         "http://schema.org/name": "California--Mount Harlan American Viticultural Area"
     },
     {
         "@id": "http://id.worldcat.org/fast/1206014",
-        "schema:name": "California--San Benito County"
+         "http://schema.org/name": "California--San Benito County"
     },
     {
         "@id": "http://id.worldcat.org/fast/00000",
-        "schema:name": "Eola-Amity Hills AVA"
+         "http://schema.org/name": "Eola-Amity Hills AVA"
     }
 ]
