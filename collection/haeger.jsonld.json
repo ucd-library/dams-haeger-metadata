@@ -41,7 +41,7 @@
   },
   "schema:name": "Old Vines in New Lands: a Study of Mature Pinot Noir Vineyards in California and Oregon",
   "schema:publisher": [
-    "UC Davis, Archives and Special Collections",
+    "UC Davis Library, Archives and Special Collections",
     {
       "@id": "http://id.loc.gov/authorities/names/no2008108707"
     }
@@ -57,6 +57,6 @@
     {
       "@id": "http://id.loc.gov/authorities/names/no2008108707"
     },
-    "UC Davis, Archives and Special Collections"
+    "UC Davis Library, Archives and Special Collections"
   ]
 }
