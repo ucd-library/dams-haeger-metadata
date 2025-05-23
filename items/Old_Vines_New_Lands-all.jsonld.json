@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Old_Vines_New_Lands-DC.pdf"
+    "@id": "@base:/media/Old_Vines_New_Lands-DC-all.pdf"
   },
   "schema:creator": "Haeger, John Winthrop",
   "schema:datePublished": {
@@ -31,7 +31,7 @@
     "@value": "2024-05"
   },
   "schema:identifier": [
-    "ark:/87293/d37659p1r",
+    "ark:/87293/d33f4kv9z",
     "D-641"
   ],
   "schema:image": {
@@ -40,7 +40,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": " Old Vines in New Lands: A Study of Mature Pinot Noir Vineyards in California and Oregon",
+  "schema:name": "  Old Vines in New Lands: A Study of Mature Pinot Noir Vineyards in California and Oregon (PDF of all profiles)",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
