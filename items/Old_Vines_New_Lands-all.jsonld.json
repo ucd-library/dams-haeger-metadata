@@ -23,7 +23,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Old_Vines_New_Lands-DC-all.pdf"
+    "@id": "@base:/media/Old_Vines_New_Lands-all.pdf"
   },
   "schema:creator": "Haeger, John Winthrop",
   "schema:datePublished": {

@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../Old_Vines_New_Lands-DC-all.pdf"
+    "@id": "@base:../Old_Vines_New_Lands-all.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {
