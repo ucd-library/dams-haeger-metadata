@@ -31,7 +31,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
   },
-  "schema:description": "This collection contains previously unpublished profiles of mature pinot noir vineyards in California and Oregon researched and written by John Haeger between 2022 and 2024. Most profiles describe a single vineyard, although some cover several. Each profile examines a list of vineyard attributes: location, latitude, proximities, elevation, orientation, aspect, slope and exposures. Profiles may also address prevailing winds and other determinants of micro- and mesoclimate; physical and chemical properties of top soils, subsoils, and base rock, especially porosity and moisture retention; significant modifications (if any) made at or after planting to the site’s natural topography; planting history and plant materials, including the specific sources of scion material; vineyard layout and trellising schemes; the vineyard’s homo- or heterogeneity from one side or block to another; farming practices and historical changes thereto; conversions to/from organic/biodynamic protocols, or to/from irrigation; yield, etc. The profile also captures the history of the vineyard: who, why in this place, why Pinot, from what inspiration, with what help and guidance from whom else, etc.  A final section of each profile contains tasting notes on wines made from grapes grown in the vineyard.",
+  "schema:description": "This collection contains previously unpublished profiles of mature pinot noir vineyards in California and Oregon researched and written by John Haeger between 2022 and 2024. Most profiles describe a single vineyard, although some cover several. Each profile examines a list of vineyard attributes: location, latitude, proximities, elevation, orientation, aspect, slope and exposures. Profiles may also address prevailing winds and other determinants of micro- and mesoclimate; physical and chemical properties of top soils, subsoils, and base rock, especially porosity and moisture retention; significant modifications (if any) made at or after planting to the site’s natural topography; planting history and plant materials, including the specific sources of scion material; vineyard layout and trellising schemes; the vineyard’s homo- or heterogeneity from one side or block to another; farming practices and historical changes thereto; conversions to/from organic/biodynamic protocols, or to/from irrigation; yield, etc. The profile also captures the history of the vineyard: who, why in this place, why Pinot, from what inspiration, with what help and guidance from whom else, etc.  A final section of each profile contains tasting notes on wines made from grapes grown in the vineyard.\n\n A finding aid for the full collection of Haeger's papers is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8x63tm3).",
   "schema:identifier": [
     "D-641",
     "ark:/87293/d33t9dd5t"
@@ -40,7 +40,7 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:creator": "Haeger, John Winthrop",
-  "schema:name": "Old Vines in New Lands: A Study of Mature Pinot Noir Vineyards in California and Oregon\n\n     By John Winthrop Haeger",
+  "schema:name": "Old Vines in New Lands: A Study of Mature Pinot Noir Vineyards in California and Oregon, by John Winthrop Haeger",
   "schema:publisher": [
     "UC Davis Library, Archives and Special Collections",
     {
